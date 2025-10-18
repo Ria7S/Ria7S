@@ -1,6 +1,7 @@
 # Hi there, I'm Riya Saroj 👋  
 
-🎓 Master's in Big Data Analytics | 📊 Data Science & Machine Learning Enthusiast 
+🎓 Master's in Big Data Analytics | 📊 Data Science & Machine Learning Enthusiast
+
 🌱 Strengthening my analytics foundation as I step further into AI-driven innovation.
 
 I’m passionate about exploring data-driven systems and intelligent applications.  
@@ -55,7 +56,6 @@ My academic and personal projects combine machine learning, computer vision, and
 
 ### ⚙️ GitHub Insights  
 
-![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ria7S&show_icons=true&theme=default)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ria7S&layout=compact)
 
 ---
