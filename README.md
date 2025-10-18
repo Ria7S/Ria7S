@@ -1,7 +1,7 @@
 # Hi there, I'm Riya Saroj 👋  
 
-🎓 Master's in Big Data Analytics | 📊 Statistics Graduate  
-🌱 Learning Curve Towards AI (Beginner)
+🎓 Master's in Big Data Analytics | 📊 Data Science & Machine Learning Enthusiast 
+🌱 Strengthening my analytics foundation as I step further into AI-driven innovation.
 
 I’m passionate about exploring data-driven systems and intelligent applications.  
 My academic and personal projects combine machine learning, computer vision, and natural language processing to transform data into meaningful insights.  
