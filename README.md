@@ -63,7 +63,7 @@ My academic and personal projects combine machine learning, computer vision, and
 ### 🌐 Connect with Me  
 
 📧 [riya.saroj2002@gmail.com](mailto:riya.saroj2002@gmail.com)  
-💼 [LinkedIn]((https://www.linkedin.com/in/riya-saroj-747954255/))  
+💼 [LinkedIn](https://www.linkedin.com/in/riya-saroj-747954255/) 
 
 ---
 
